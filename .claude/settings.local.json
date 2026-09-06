@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(awk 'NR>=320 && NR<=332' src/styles.css)"
+    ]
+  }
+}

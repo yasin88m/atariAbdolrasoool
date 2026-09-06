@@ -1,0 +1,1 @@
+Run npm.cmd run dev. Vite should expose a Network URL automatically. Connect phone and PC to the same Wi-Fi and open that URL on the phone.

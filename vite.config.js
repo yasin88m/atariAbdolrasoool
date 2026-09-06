@@ -15,6 +15,7 @@ function getLocalIP() {
 }
 
 export default defineConfig({
+  base: '/atariAbdolrasoool/',
   plugins: [react()],
   server: {
     host: '0.0.0.0',
